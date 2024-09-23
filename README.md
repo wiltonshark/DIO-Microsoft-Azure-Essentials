@@ -6,6 +6,12 @@
 
 <h2 align="center"> Repositório criado para registrar meu aprendizado no curso de Microsoft Azure Essentials do bootcamp DIO. </h2>
 
-## Índice
+# Índice
+
+## Introdução à Computação em Nuvem
 
 [Introdução ao Ambiente Cloud](./Introducao/INTRODUCAO.md)
+
+## Conceitos Iniciais de Cloud com Azure
+
+[Benefícios da Nuvem Azure](./Beneficios/BENEFICIOS.md)
