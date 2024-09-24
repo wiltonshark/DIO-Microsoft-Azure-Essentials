@@ -1,4 +1,4 @@
-# Benefícios da nuvem
+<h1 align="center"> Benefícios da nuvem </h1>
 
 ## Alta disponibilidade
 A alta disponibilidade se concentra em garantir a disponibilidade máxima, independentemente de interrupções ou eventos que possam ocorrer.
