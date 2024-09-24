@@ -14,4 +14,6 @@
 
 ## Conceitos Iniciais de Cloud com Azure
 
-[Benefícios da Nuvem Azure](./Beneficios/BENEFICIOS.md)
+[Benefícios da Computação em Nuvem](./Beneficios/BENEFICIOS.md)
+
+[Tipos de Serviço de Nuvem](./Beneficios/TIPOS.md)
