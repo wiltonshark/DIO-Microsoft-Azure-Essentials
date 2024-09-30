@@ -142,8 +142,6 @@ gerenciar e controlar o acesso aos recursos que os usuários podem provisionar c
 
 ## Grupos de gerenciamento
 
-Grupos de gerenciamento > Assinaturas > Grupos de recursos > Recursos
-
 Os grupos de gerenciamento podem incluir váruas assinaturas do azure
 
 as assinaturas herdam as condições aplicadas ao grupo de gerenciamento
