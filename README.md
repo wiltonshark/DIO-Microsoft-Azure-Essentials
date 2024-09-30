@@ -17,3 +17,8 @@
 [Benefícios da Computação em Nuvem](./Beneficios/BENEFICIOS.md)
 
 [Tipos de Serviço de Nuvem](./Beneficios/TIPOS.md)
+
+## Arquitetura e Serviços Azure
+
+[Componentes da Arquitetura do Azure](./Arquitetura/COMPONENTES.md)
+
