@@ -147,3 +147,11 @@ Os grupos de gerenciamento podem incluir váruas assinaturas do azure
 as assinaturas herdam as condições aplicadas ao grupo de gerenciamento
 
 <img height="370em" src="./Grupo de Gerenciamento.png"/>
+
+## Links
+
+[Introdução a contas do Azure](https://learn.microsoft.com/training/modules/describe-core-architectural-components-of-azure/3-get-started-azure-accounts)
+
+[Introdução](https://learn.microsoft.com/training/modules/describe-core-architectural-components-of-azure/1-introduction)
+
+[Infraestrutura física do Azure](https://learn.microsoft.com/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure)
